@@ -1,3 +1,3 @@
 # Leetcode
 
-Leetcode exercise & solutions
+Leetcode exercises & solutions
